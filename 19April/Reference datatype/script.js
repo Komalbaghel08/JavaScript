@@ -8,7 +8,7 @@ console.log(numbers , typeof numbers);
 const person = {
     name:"john doe",
     age: 34,
-    city:"Bhopal",
+    city:"rewa",
 };
 console.log(person, typeof person);
 
