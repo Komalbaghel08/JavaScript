@@ -39,4 +39,26 @@ console.log(output);
 output = x.includes("hell");
 console.log(output);
 
-// replace -
+// replace - one to be replaced , new value
+output = x.replace("hello", "bye");
+console.log(output);
+
+// substring (starting index , ending indexing)
+output = x.substring(0,3);
+console.log(output);
+
+// slice
+output = x.slice(0,5)
+console.log(output);
+
+// uppercase
+output = x.toUpperCase();
+console.log(output);
+
+// lowercase
+output = x.toLowerCase();
+console.log(output);
+
+// uppercase
+var mytext = mytext.charAt(0).toUppercase
+ 
