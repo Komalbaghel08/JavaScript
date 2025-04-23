@@ -13,8 +13,8 @@ var text2  = `My name is ${name} and i am ${ age} years old`;
 console.log(text2);
 
 // PROPERTIES OF STRING
-
 var x = "hello world";
+
 // 1. type of
 console.log(typeof x);
 
@@ -60,5 +60,6 @@ output = x.toLowerCase();
 console.log(output);
 
 // uppercase
-var mytext = mytext.charAt(0).toUppercase
- 
+var mytext = "javascript";
+ mytext = mytext.charAt(0).toUpperCase() + mytext.substring(1);
+console.log(mytext);
