@@ -53,6 +53,8 @@ console.log(output);
 output = Math.floor(Math.random()* 10);
 console.log(output);
 
+
+// practice question
 x=Math.floor(Math.random()* 100) + 1;
 y = Math.floor(Math.random()* 150)+1;
 let sum,product,diff,remainder,ques;
