@@ -47,7 +47,7 @@ x = number.slice(0,3);
 console.log(x);
 console.log(number);
 
-// splice = it ois similar to slice but second parameter that is the number or elements to remove
+// splice = it is similar to slice but second parameter that is the number or elements to remove
 // it changes the originaal array
 x = number.splice(1,3);
 console.log(x);
