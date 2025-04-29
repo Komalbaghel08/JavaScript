@@ -17,6 +17,8 @@
 // console.log(num);
 
 let number = [1,2,3,4,5,6,7,8,9,10];
-console.log(number)
-number.slice(4,7)
-console.log(number)
+let x;
+x = number.slice(3,6);
+console.log(x);
+console.log(number);
+
