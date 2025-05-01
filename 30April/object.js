@@ -81,3 +81,6 @@ const car = {
 // Aliyas
 const {color:y, model:z, year:q} = car;
 console.log(y+z+q);
+
+
+

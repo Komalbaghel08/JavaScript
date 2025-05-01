@@ -33,7 +33,7 @@ console.log(number);
 // pop = remove the last an element of an array
 number.pop();
 console.log(number);
-// unshift adda an element to the start of an array
+// unshift add an element to the start of an array
 number.unshift();
 console.log(number);
 // shift remove an elemnt to the start of an array

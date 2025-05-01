@@ -29,6 +29,7 @@ d = new Date();
 // console.log(year,month,day,date);
 // console.log(day);
 
+
 // const day =d.getDay();
 // if(day==1){
 //     console.log("Monday")
@@ -51,11 +52,12 @@ d = new Date();
 //     console.log("Sunday")
 // }
 
-//  WAP To find celcius to farenheigt
 
+//  WAP To find celcius to farenheigt
 // let celsius = parseFloat (prompt("Enter a temperature in Celsius:"));
 // let far = (celsius *9/5)+32
 // console.log(far);
+
 
 //User se do input lena h name and password (4 digit ka hona chahiye) 
 // agr shi h to Success aana chahiye nhi to Fail

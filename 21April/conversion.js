@@ -2,7 +2,7 @@
 
 // String to number conversion
 var a = "5.67";
-// a = Number(a);
+//  a = Number(a);
 // parseInt and parsefloat
 // a = parseInt(a);
 a = parseFloat(a);
