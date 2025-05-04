@@ -35,3 +35,15 @@ function cube(num3){
 }
 let d = cube(3)
 console.log(d);
+// regula function  
+// function expression
+let cube1 = function (x){
+    return x * x * x ;
+};
+console.log(cube1(10));
+
+// arrow function -es6 feature
+const print  = (name) => {
+    console.log(name);
+};
+print("harry potter")
