@@ -11,9 +11,10 @@
 // console.log(newArray);
 
 // Filter
-const arr = [10,20,30,50];
-const arr1 = arr.filter(display);
-function display(x){
-    return x>30;
-}
-console.log(arr1);
+// const arr = [10,20,30,50];
+// const arr1 = arr.filter(display);
+// function display(x){
+//     return x>30;
+// }
+// console.log(arr1);
+
