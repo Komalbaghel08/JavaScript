@@ -21,4 +21,3 @@ let x;
 x = number.slice(3,6);
 console.log(x);
 console.log(number);
-
