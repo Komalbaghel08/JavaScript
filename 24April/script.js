@@ -11,7 +11,8 @@
 //  var a = parseFloat(prompt("Enter a number"));
 //  if (a>0){
 // console.log("positive");
-//  }
+//  }[
+
 
 // WAP  to take two inputs from the user and check first input is even or odd if first input is even then print multiplications of both inputs if a first input is odd then find area of triagle of second input.
 // var a = parseFloat(prompt("enter a  number"));
